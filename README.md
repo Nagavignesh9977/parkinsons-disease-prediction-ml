@@ -49,8 +49,8 @@ This project builds a classification model to assist in early detection.
 
 | Model | Accuracy |
 |--------|----------|
-| SVM | XX% |
-| Logistic Regression | XX% |
+| SVM | 95% |
+| Logistic Regressio | 88% |
 
 ---
 
